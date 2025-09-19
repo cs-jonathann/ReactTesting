@@ -1,0 +1,2 @@
+node_modules
+// this will ignore the nodemodules in files that the website is going to give us from the chapters
